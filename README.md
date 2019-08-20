@@ -1,14 +1,8 @@
-# GBICi5-Scratch-1-PaintBox
+# Binary Hero
+In this resource, you will make a game in which you play the notes of a song as they scroll down the stage.
 
-![GBICi5-Scratch-1-PaintBox](banner.png)
+This repository contains the content for the Binary Hero Raspberry Pi project. This project can be viewed at:
 
-Find the project online at [projects.raspberrypi.org/en/projects/GBICi5-Scratch-1-PaintBox](https://projects.raspberrypi.org/en/projects/GBICi5-Scratch-1-PaintBox)
+https://projects.raspberrypi.org/en/projects/paint-box
 
-## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/GBICi5-Scratch-1-PaintBox/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/GBICi5-Scratch-1-PaintBox/tree/master/en/solutions).
-
-## Contributing
-See [CONTRIBUTING.md](CONTRIBUTING.md)
-
-## Licence
- See [LICENCE.md](LICENCE.md)
+See [LICENCE.md](LICENCE.md) for the project licence, and [CONTRIBUTING.md](CONTRIBUTING.md) for guidance on how to contribute.
