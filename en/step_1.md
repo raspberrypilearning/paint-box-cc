@@ -32,6 +32,8 @@ title: What you will learn
 - Add the pen extension in Scratch
 - Use broadcasts to control a sprite in Scratch
 - Recall how to respond to mouse events in Scratch
+- Understand the skills which are developed towards a career involving Computing
+
 --- /collapse ---
 
 --- collapse ---
