@@ -1,6 +1,6 @@
 title: Paint box
 hero_image: images/banner.png
-listed: true
+listed: false
 copyedit: false
 description: Make your own paint program
 version: 4.1.0
