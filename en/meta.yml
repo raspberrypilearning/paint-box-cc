@@ -1,3 +1,4 @@
+---
 title: Paint box
 hero_image: images/banner.png
 listed: false
@@ -5,7 +6,7 @@ copyedit: false
 description: Make your own paint program
 version: 4.1.0
 last_tested: 2018-11-30
-steps: 
+steps:
 - title: Introduction
 - title: Make a pencil
 - title: Coloured pencils
@@ -16,4 +17,4 @@ steps:
 - title: 'Challenge: more pencils'
   challenge: true
 - title: Test yourself
-- title: 'What have you learned?'
+- title: What have you learned?
